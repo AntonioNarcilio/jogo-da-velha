@@ -1,0 +1,14 @@
+{
+  "name": "jogo_da_velha",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "materialize-css": "^1.0.0-rc.2",
+    "nodemon": "^2.0.4"
+  }
+}

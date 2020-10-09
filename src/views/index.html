@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Jogo da velha</title>
+
+	<link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+	<link rel="stylesheet" href="css/materialize.min.css">
+	<link rel="stylesheet" href="styles/style.css">
+
+</head>
+<body>
+
+	<div class="container">
+		<div class="row">
+
+			<div class="col s12">
+
+				<div id="quemJoga"></div>
+				<div class="menu">
+						<a class="waves-effect waves-light btn pulse orange accent-4" onclick="boot()">
+							<i class="material-icons right">play_arrow</i>
+							Reiniciar Jogo
+						</a>
+				</div>
+
+				<div class="center-align" id="tabuleiro">
+					<div id="position1" class="dimensaoTabuleiro" onclick="player(1)"></div>
+					<div id="position2" class="dimensaoTabuleiro" onclick="player(2)"></div>
+					<div id="position3" class="dimensaoTabuleiro" onclick="player(3)"></div>
+					<div id="position4" class="dimensaoTabuleiro" onclick="player(4)"></div>
+					<div id="position5" class="dimensaoTabuleiro" onclick="player(5)"></div>
+					<div id="position6" class="dimensaoTabuleiro" onclick="player(6)"></div>
+					<div id="position7" class="dimensaoTabuleiro" onclick="player(7)"></div>
+					<div id="position8" class="dimensaoTabuleiro" onclick="player(8)"></div>
+					<div id="position9" class="dimensaoTabuleiro" onclick="player(9)"></div>
+				</div>
+
+			</div>
+		
+		</div>
+	</div>
+
+	<script src="js/materialize.min.js"></script>
+	<script src="scripts/index.js"></script>
+</body>
+</html>

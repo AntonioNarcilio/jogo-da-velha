@@ -1,0 +1,107 @@
+/* Todos */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body, html {
+	width: 100%;
+	height: 100%;
+	background: url('/assets/background.jpg') no-repeat;
+	background-size: cover;
+	overflow: hidden;
+}
+
+#quemJoga {
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-size: 2rem;
+	font-weight: 500;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+
+	margin-top: 6%;
+}
+
+.menu {
+	position: absolute;
+	top: 90%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.center-align {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+#tabuleiro {
+	width: 315px;
+	height: 315px;
+	display: flex;
+	flex-wrap: wrap;
+	align-content: flex-start;
+}
+
+.dimensaoTabuleiro {
+	width: 105px;
+	height: 105px;
+	margin: 0px;
+	padding: 0px;
+	cursor: pointer;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#position1 {
+	border-right: 1px solid #000;
+	border-bottom: 1px solid #000;
+}
+
+#position2 {
+	border-left: 1px solid #000;
+	border-right: 1px solid #000;
+	border-bottom: 1px solid #000;
+}
+
+#position3 {
+	border-left: 1px solid #000;
+	border-bottom: 1px solid #000;
+}
+
+#position4 {
+	border-right: 1px solid #000;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
+}
+
+#position5 {
+	border: 1px solid #000;
+}
+
+#position6 {
+	border-left: 1px solid #000;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
+}
+
+#position7 {
+	border-right: 1px solid #000;
+	border-top: 1px solid #000;
+}
+
+#position8 {
+	border-left: 1px solid #000;
+	border-right: 1px solid #000;
+	border-top: 1px solid #000;
+}
+
+#position9 {
+	border-left: 1px solid #000;
+	border-top: 1px solid #000;
+}
