@@ -21,7 +21,7 @@
 ---
 Pequeno projeto desenvolvido com o intuito de pratica certos conhecimentos obtidos durante minha graduação.
 
-![jogo da velha tela](/.github/jogo_da_velha-screen.png)
+![jogo da velha tela](/public/assets/jogo_da_velha-screen.png)
 
 
 
