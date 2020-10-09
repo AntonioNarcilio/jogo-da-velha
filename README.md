@@ -53,7 +53,7 @@ Servido | Porta
 
 #### 🏡 **Utilizando projeto localmente**
 
->No diretório/pasta desejado(a) execute no terminal o código abaixo ou clique [aqui](https://github.com/AntonioNarcilio/jogo_da_velha/releases/new) para baixar o projeto.
+>No diretório/pasta desejado(a) execute no terminal o código abaixo ou clique [aqui](https://github.com/AntonioNarcilio/jogo_da_velha/releases) para baixar o projeto.
 
 ~~~bash
 git clone https://github.com/AntonioNarcilio/jogo_da_velha.git
