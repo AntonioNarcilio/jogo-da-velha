@@ -1,7 +1,7 @@
 ### Jogo da velha 👵
 
 <a href="https://nodejs.org/en/">
- <img src="https://img.shields.io/static/v1?label=node%20js&message=framework&color=339933&labelColor=282a36&style=flat&logo=node.js&logoColor=white" alt="node js"/>
+ <img src="https://img.shields.io/static/v1?label=node%20js&message=javascript%20runtime%20environment&color=339933&labelColor=282a36&style=flat&logo=node.js&logoColor=white" alt="node js"/>
 </a>
 
 <a href="https://classic.yarnpkg.com/en/docs/install#debian-stable">
@@ -19,7 +19,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/AntonioNarcilio/jogo_da_velha?&color=dc0003&labelColor=282a36)
 
 ---
-Pequeno projeto desenvolvido com o intuito de pratica certos conhecimentos obtidos durante minha graduação.
+👨🏻‍💻 Pequeno projeto desenvolvido com o intuito de praticar certos conhecimentos obtidos durante minha graduação.
 
 ![jogo da velha tela](/public/assets/jogo_da_velha-screen.png)
 
@@ -27,12 +27,12 @@ Pequeno projeto desenvolvido com o intuito de pratica certos conhecimentos obtid
 
 <br/>
 
-#### ⬇ Dependências
+#### 📦 **Dependências**
 
-> Para que esse projeto funcione corretamente deve-se ter as seguintes "ferramentas" instaladas. 
+> Caso queira executar este simples jogo em sua máquina, antes de prosseguir com o passo a passo mais abaixo, deve-se ter as seguintes tecnologias instaladas em sua máquina.  
 
 <a href="https://nodejs.org/en/">
- <img src="https://img.shields.io/static/v1?label=node%20js&message=framework&color=339933&labelColor=282a36&style=flat&logo=node.js&logoColor=white" alt="node js"/>
+ <img src="https://img.shields.io/static/v1?label=node%20js&message=javascript%20runtime%20environment&color=339933&labelColor=282a36&style=flat&logo=node.js&logoColor=white" alt="node js"/>
 </a>
 
 <a href="https://classic.yarnpkg.com/en/docs/install#debian-stable">
@@ -42,7 +42,7 @@ Pequeno projeto desenvolvido com o intuito de pratica certos conhecimentos obtid
 
 <br/>
 
-#### 🚪 Porta utilizada
+#### 🚪 **Porta utilizada**
 
 Servido | Porta
 |------:|:------|
