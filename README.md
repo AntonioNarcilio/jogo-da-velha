@@ -8,7 +8,7 @@
  <img src="https://img.shields.io/static/v1?label=yarn&message=package%20manager&color=2C8EBB&labelColor=282a36&style=flat&logo=Yarn&logoColor=white" alt="yarn"/>
 </a>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/AntonioNarcilio/jogo_da_velha?color=dc0003&labelColor=282a36&logo=GitHub&logoColor=white)
+<!-- ![GitHub repo size](https://img.shields.io/github/repo-size/AntonioNarcilio/jogo_da_velha?color=dc0003&labelColor=282a36&logo=GitHub&logoColor=white) -->
 
 <a href="https://github.com/AntonioNarcilio/proffy/blob/master/LICENSE">
  <img src="https://img.shields.io/github/license/AntonioNarcilio/jogo_da_velha?label=license&color=dc0003&labelColor=282a36" alt="license"/>
