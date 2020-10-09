@@ -20,6 +20,7 @@
 
 ---
 👨🏻‍💻 Pequeno projeto desenvolvido com o intuito de praticar certos conhecimentos obtidos durante minha graduação.
+`[JOgo ainda necessita de varias melhorias](https://github.com/AntonioNarcilio/jogo_da_velha/issues)`
 
 ![jogo da velha tela](/public/assets/jogo_da_velha-screen.png)
 
