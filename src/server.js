@@ -2,8 +2,9 @@ const express = require('express')
 const server = express()
 
 
-// Passando a porta a ser utilizada
-const PORT = 3333
+// 💡 Passando a porta a ser utilizada
+// 💡 config de porta no heroku 'process.env.PORT'
+const PORT = process.env.PORT || 3333
 
 // Configurando express para usar a pasta public
 server.use(express.static("public"))
