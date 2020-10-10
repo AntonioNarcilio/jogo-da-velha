@@ -6,9 +6,9 @@
     "start": "node src/server.js"
   },
   "license": "MIT",
+  "author": "Antonio Narcilio",
   "dependencies": {
     "express": "^4.17.1",
-    "materialize-css": "^1.0.0-rc.2",
-    "nodemon": "^2.0.4"
+    "materialize-css": "^1.0.0-rc.2"
   }
 }
